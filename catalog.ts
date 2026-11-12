@@ -1,12 +1,3 @@
-Claude
-
-
-
-
-
-
-
-
 Catalog · TS
 class Book {
   private id: string;
