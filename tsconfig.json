@@ -1,0 +1,9 @@
+{
+
+"compilerOption":{
+    "target":"esnext",
+    "strict":true,
+    "moduleDetection":"force",
+    
+}
+}
