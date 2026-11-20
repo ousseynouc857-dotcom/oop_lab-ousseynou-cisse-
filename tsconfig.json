@@ -1,9 +1,8 @@
 {
-
-"compilerOption":{
-    "target":"esnext",
-    "strict":true,
-    "moduleDetection":"force",
-    
-}
+  "compilerOptions": {
+    "target": "esnext",
+    "strict": true,
+    "moduleDetection": "force",
+    "noEmit": true
+  }
 }
